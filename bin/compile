@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo '########## Compile phase in sample-custom-buildpack'
+
+exit 0
