@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get update
+sudo apt-get update
 echo 'dummy-buildpack supply'
 
 exit 0
